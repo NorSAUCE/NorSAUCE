@@ -5,6 +5,7 @@
 
 ### <div align="center">Soy Nora , Analista de Sistemas desde 2008 y Programadora FullStack desde 2022👨‍💻desarrollando proyectos web en remoto desde 2021 🚀</div>  
   
+- 🥇 Me gradué como FullStack Developer MERN en UTN (Universidad Tecnológica Nacional)https://sceu.frba.utn.edu.ar/e-learning
 
 - 🔭 Ahora trabajo desarrollando proyectos en equipo para evidenciar mi señority en No Country https://www.nocountry.tech/  
   
@@ -84,7 +85,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NorSAUCE&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NorSAUCE&show_icons=true&count_private=true&hide_border=true" align="center" /></div> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorSAUCE&hide_border=true&layout=compact&langs_count=4&theme=codeSTACKr" align="center" /></p> 
 
 
 <br/>  
