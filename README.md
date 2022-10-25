@@ -5,7 +5,7 @@
 <br/>
 <div align="center">Hi! I´m Nora , System Analist and FullStack Developer👨‍💻developing remote web proyects since 2021 🚀</div>  
   
-- 🥇  I have graduated as FullStack Developer MERN at UTN https://sceu.frba.utn.edu.ar/e-learning
+- 🥇  I have graduated as FullStack Developer MERN at UTN https://sceu.frba.utn.edu.ar/e-learning in 2022
 
 - 🔭 Now I´m working in team proyects to improve my seniority at NoCountry Organization https://www.nocountry.tech/  
   
