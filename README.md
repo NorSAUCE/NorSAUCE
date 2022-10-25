@@ -2,21 +2,21 @@
 <img src="https://media.tenor.com/IrQdEDGIF5cAAAAj/hello.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">Soy Nora , Analista de Sistemas desde 2008 y Programadora FullStack desde 2022👨‍💻desarrollando proyectos web en remoto desde 2021 🚀</div>  
+<br/>
+### <div align="center">Hi! I´m Nora , System Analist and FullStack Developer👨‍💻developing remote web proyects from 2021 🚀</div>  
   
-- 🥇 Me gradué como FullStack Developer MERN en UTN (Universidad Tecnológica Nacional)https://sceu.frba.utn.edu.ar/e-learning
+- 🥇  I have graduated as FullStack Developer MERN at UTN https://sceu.frba.utn.edu.ar/e-learning
 
-- 🔭 Ahora trabajo desarrollando proyectos en equipo para evidenciar mi señority en No Country https://www.nocountry.tech/  
-  
-
-- 🌱 Estoy aprendiendo constantemente y profundizando los  conocimientos de las bases en cada stack que manejo.   
+- 🔭 Now I´m working in team proyects to improve my seniority at NoCountry Organitation https://www.nocountry.tech/  
   
 
-- ❓ Puedes consultarme sobre cualquier cosa relacionada con el stack MERN  que es en donde me desempeño.  
+- 🌱 I´m constantly learning about languages.
   
 
-- ⚡ Hobbies: escuchar musica e ir al gimnasio todas las mañanas para desconectarme.  
+- ❓ You can ask me anything about my stack MERN.  
+  
+
+- ⚡ Hobbies: I love dance and go to the gym every mornings.  
   
 
 <br/>  
@@ -99,5 +99,4 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
