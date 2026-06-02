@@ -5,16 +5,13 @@
 <br/>
 <div align="center">Hi! I´m Nora , System Analist and FullStack Developer👨‍💻developing remote web proyects since 2021 🚀</div>  
   
-- 🥇  I have graduated as FullStack Developer MERN at UTN https://sceu.frba.utn.edu.ar/e-learning in 2022
+- 🥇  I have graduated as Sistems Analyst at Superior Institute San Jose I27 learning in 2008 and as FullStack Developer MERN at UTN https://sceu.frba.utn.edu.ar/e-learning in 2022
 
-- 🔭 Now I´m working in team proyects to improve my seniority at NoCountry Organization https://www.nocountry.tech/  
-  
+- 🔭 I´m working in Coderhouse as a teacher since 2023  
 
 - 🌱 I´m constantly learning about languages and frameworks.
-  
 
 - ❓ You can ask me anything about my stack MERN.  
-  
 
 - ⚡ Hobbies: I love dance and go to the gym every mornings.  
   
@@ -86,17 +83,5 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NorSAUCE&show_icons=true&count_private=true&hide_border=true" align="center" /></div> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorSAUCE&hide_border=true&layout=compact&langs_count=4&theme=codeSTACKr" align="center" /></p> 
-
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 
